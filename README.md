@@ -1,0 +1,1 @@
+# Sum-of-Different-Powers-Function---EVO_COMP
