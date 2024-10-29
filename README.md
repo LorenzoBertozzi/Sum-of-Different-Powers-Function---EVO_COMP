@@ -13,8 +13,7 @@ The Sum of Different Powers function is unimodal. It is shown here in its two-di
 The function is usually evaluated on the hypercube xi ∈ [-1, 1], for all i = 1, …, d.
 
 # Global Minimum:
-<img src="![image](https://github.com/user-attachments/assets/b0e714e8-94ba-4af1-836f-ad2e1d39eac3)
-">
+<img src="https://www.sfu.ca/~ssurjano/sumpow3.png">
 
 
 
